@@ -8,7 +8,7 @@ Um sistema completo de CRUD (Create, Read, Update, Delete) para gerenciamento de
 - **Node.js** - Runtime JavaScript
 - **Express** - Framework web
 - **PostgreSQL** - Banco de dados
-- **CORS** - Middleware para requisições cross-origin
+
 
 ### Frontend
 - **React** - Biblioteca para interface de usuário
@@ -17,13 +17,13 @@ Um sistema completo de CRUD (Create, Read, Update, Delete) para gerenciamento de
 
 ## 📋 Funcionalidades
 
-- ✅ **Listar clientes** - Visualizar todos os clientes cadastrados
-- ✅ **Adicionar cliente** - Cadastrar novos clientes
-- ✅ **Editar cliente** - Atualizar informações existentes
-- ✅ **Deletar cliente** - Remover clientes do sistema
-- ✅ **Interface responsiva** - Funciona em desktop e mobile
-- ✅ **Validação de formulários** - Campos obrigatórios e validação de email
-- ✅ **Confirmação de exclusão** - Proteção contra exclusões acidentais
+ **Listar clientes** - Visualizar todos os clientes cadastrados
+**Adicionar cliente** - Cadastrar novos clientes
+**Editar cliente** - Atualizar informações existentes
+ **Deletar cliente** - Remover clientes do sistema
+ **Interface responsiva** - Funciona em desktop e mobile
+ **Validação de formulários** - Campos obrigatórios e validação de email
+
 
 ## 🛠️ Instalação e Configuração
 
@@ -152,13 +152,11 @@ curl http://localhost:5000/clientes
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
 
-Este projeto está sob a licença ISC. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 👨‍💻 Autor
 
-**Cadu** - Desenvolvedor Full Stack
+**Cadu** -
 
 ---
 
